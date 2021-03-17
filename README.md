@@ -1,4 +1,4 @@
-# Claim-Frequency-Forecast
+# Forecast of car insurance claims
 
 A forecast of the claim number and claim frequency for a portfolio of car insurance policies is produced using different statistical and machine learning models, as well as different packages available on R. 
 
