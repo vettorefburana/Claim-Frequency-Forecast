@@ -1,6 +1,6 @@
 # Forecast of car insurance claims
 
-Forecast of the claim number and claim frequency for a portfolio of car insurance policies using different statistical and machine learning models, as well as different R packages
+Forecast of the claim number and claim frequency for a portfolio of car insurance policies using different statistical and machine learning models
 
 The following classes of models are considered: 
 - Poisson generalized linear models
